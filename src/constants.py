@@ -3,7 +3,7 @@ from colr import color
 
 version = "2.51"
 enablePrivateLogging = True
-hide_names = True
+hide_names = False
 hide_levels = True
 
 
